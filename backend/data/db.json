@@ -1,0 +1,1889 @@
+{
+  "users": [
+    {
+      "id": "u-admin-001",
+      "name": "Talha (admin)",
+      "email": "admin@tms.com",
+<<<<<<< HEAD
+      "password": "$2a$10$FAMIinSQA9BZyRVcTq8BmuzdFkPxrqev014NpN9UWcdQT3itNwfI.",
+      "role": "admin",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "admin",
+      "subscription": {
+        "plan": "admin",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 1,
+      "createdAt": "2026-09-08T00:00:00.000Z"
+=======
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-09-08T00:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-mgr-001",
+      "name": "manager bob",
+      "email": "ch.javedt786@gmail.com",
+<<<<<<< HEAD
+      "password": "$2a$10$u7lHwp9gc1XKqZg3TnoBf.SUVHm5rer/1wfeG44GZ8QBoBb6.mLuy",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGXBSZrSYJnFw0",
+      "tokenVersion": 5,
+      "createdAt": "2026-09-08T02:00:00.000Z",
+      "lastReconcileAt": "2026-09-21T13:00:00.827Z"
+=======
+      "password": "$2a$10$fHvYgObvE49CM41M.xGhNOVhGXhcapie5VzvL21Fd8k1CTfBKveZW",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2026-09-08T02:00:00.000Z",
+      "tokenVersion": 3
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-mgr-002",
+      "name": "Manager Two",
+      "email": "manager2@tms.com",
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "manager",
+      "status": "active",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 0,
+      "createdAt": "2026-09-09T00:00:00.000Z"
+=======
+      "createdAt": "2026-09-09T00:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-emp-001",
+      "name": "Alice Johnson",
+      "email": "alice@tms.com",
+      "password": "$2a$10$B/Y9ekzblosH7rY2w.ldRuQ52SN4DTFeBHzRKPDEYuw5DJ9TpOy56",
+      "role": "employee",
+      "status": "active",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 1,
+      "createdAt": "2026-09-09T09:00:00.000Z"
+=======
+      "createdAt": "2026-09-09T09:00:00.000Z",
+      "tokenVersion": 1
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-emp-002",
+      "name": "Bob Smith",
+      "email": "bob@tms.com",
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "employee",
+      "status": "active",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 0,
+      "createdAt": "2026-09-10T09:00:00.000Z"
+=======
+      "createdAt": "2026-09-10T09:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-emp-004",
+      "name": "David Lee",
+      "email": "david@tms.com",
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "employee",
+      "status": "active",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 0,
+      "createdAt": "2026-09-11T09:00:00.000Z"
+=======
+      "createdAt": "2026-09-11T09:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-emp-005",
+      "name": "Eve Martinez",
+      "email": "eve@tms.com",
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "employee",
+      "status": "active",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 0,
+      "createdAt": "2026-09-11T14:00:00.000Z"
+=======
+      "createdAt": "2026-09-11T14:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-emp-006",
+      "name": "Frank Ng",
+      "email": "frank@tms.com",
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "employee",
+      "status": "deactivated",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 0,
+      "createdAt": "2026-09-12T09:00:00.000Z"
+=======
+      "createdAt": "2026-09-12T09:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "u-emp-008",
+      "name": "Henry Park",
+      "email": "henry@tms.com",
+<<<<<<< HEAD
+      "password": "$2a$10$FPA.he2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+      "tokenVersion": 0,
+      "createdAt": "2026-09-12T15:00:00.000Z"
+=======
+      "password": "$2a$10$FPA.hy2QtyZQhUEneUypjue34W42xXCfjoTOgIuXmghEphpaXwW5m",
+      "role": "employee",
+      "status": "active",
+      "createdAt": "2026-09-12T15:00:00.000Z",
+      "tokenVersion": 0
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "c7f71bac-5482-494b-bc74-78704a559dde",
+      "name": "talha",
+      "email": "talha@tms.com",
+      "password": "$2a$10$nJwtHDqDpUVMotSrZrFtUef9K.UDOq2391m5CRCIrPbivMyhnsQ0a",
+      "role": "manager",
+      "status": "active",
+<<<<<<< HEAD
+      "signupPaid": true,
+      "plan": "pro",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": null,
+=======
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+      "tokenVersion": 0,
+      "createdAt": "2026-09-14T14:31:31.350Z"
+    },
+    {
+<<<<<<< HEAD
+      "id": "ec895b4a-4673-4b82-8a03-647e931d1eb5",
+      "name": "hizar",
+      "email": "hizar@gmail.com",
+      "password": "$2a$10$owtcifl84RauTtbVSE543e3JM7ZSh5dTJY9frW4aN5/8nJDAcir5C",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UFxcABG3A3bjpTvvr4IHHvd",
+        "currentPeriodEnd": "2026-10-15T14:45:42.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGULWkrl1LEVhu",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-15T14:29:55.252Z",
+      "lastReconcileAt": "2026-09-21T13:00:01.320Z"
+    },
+    {
+      "id": "aa219c2f-c8ef-4acb-ae3d-a50e179dc3d7",
+      "name": "sajeel",
+      "email": "sajeel@tms.com",
+      "password": "$2a$10$rT45oQah0WEdJl4GOVcaS.fCId8lp7aLoX0buuAk8ZeK9x6Q28gdW",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UFxZFBG3A3bjpTvuTub4axy",
+        "currentPeriodEnd": "2027-09-15T14:42:41.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGUWBAsZCXpivv",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-15T14:40:44.471Z",
+      "lastReconcileAt": "2026-09-21T13:00:01.823Z"
+    },
+    {
+      "id": "434f7651-e7af-4ef8-a586-525e3d16b56e",
+      "name": "talha",
+      "email": "talha@gmail.com",
+      "password": "$2a$10$X4vm7v/aGvMoEUgzRQWaleI7Bgr6pJyk9gQId7HMx5UelCxwOuKMu",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "lite",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UFxefBG3A3bjpTv1PZt3Gix",
+        "currentPeriodEnd": "2027-09-15T14:48:17.000Z",
+        "cancelAtPeriodEnd": true
+      },
+      "stripeCustomerId": "cus_VGUcozGQ2RGMMT",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-15T14:46:41.374Z",
+      "lastReconcileAt": "2026-09-21T13:00:02.396Z"
+    },
+    {
+      "id": "8b796bd5-2ecf-4309-938f-5b59fb50bef7",
+      "name": "malik hassan ali",
+      "email": "hass1234p@gmail.com",
+      "password": "$2a$10$AMGMQ2lP77kpKDwVymBsguUVvUT2YzLN/92//kScq6rbRA3TI/5Ge",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UFzazBG3A3bjpTvbXxkj5qW",
+        "currentPeriodEnd": "2026-10-15T16:52:37.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGWcYGNYQVvvcd",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-15T16:50:17.713Z",
+      "lastReconcileAt": "2026-09-21T13:00:02.795Z"
+    },
+    {
+      "id": "6da3906e-3a35-44d3-a379-e143e67ea018",
+      "name": "lmlks",
+      "email": "lll@tms.com",
+      "password": "$2a$10$G8L.4F3RqHGxFv8o8mO/D.4h9UtIbzee.87NRf09/ItJMe64kVtme",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "lite",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UG0JUBG3A3bjpTvdiEX8toA",
+        "currentPeriodEnd": "2027-09-15T17:38:36.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGXMbcvclAyKSs",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-15T17:36:35.963Z",
+      "lastReconcileAt": "2026-09-21T13:00:03.299Z"
+    },
+    {
+      "id": "8996d598-fbc9-42c3-a442-835554bbeaf3",
+      "name": "kashi",
+      "email": "kashi@tms.com",
+      "password": "$2a$10$dROSgZsqbSJRLyVQ5Hm04ercWWNNmK28HHPtndR/K.to2DOF1hhzK",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGKV1BG3A3bjpTvK6PmNymB",
+        "currentPeriodEnd": "2026-10-16T15:11:51.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGsEdmkVoVFC9Q",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T15:10:27.837Z",
+      "lastReconcileAt": "2026-09-21T13:00:03.774Z"
+    },
+    {
+      "id": "e47ddf66-e025-43fc-a2fc-c15e271a3954",
+      "name": "shaka",
+      "email": "shaka@tms.com",
+      "password": "$2a$10$bvyZRdWA5blJnT0hXtvQCu77gbXvC64iqhO4dKWRMhvr3IAiBNKJK",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGKYmBG3A3bjpTvTiW33nNF",
+        "currentPeriodEnd": "2027-09-16T15:15:44.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGsIcQ7Pef3ATl",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T15:14:18.961Z",
+      "lastReconcileAt": "2026-09-21T13:00:04.178Z"
+    },
+    {
+      "id": "d3a2a616-b142-443d-ac44-777790049ceb",
+      "name": "mmmm",
+      "email": "mmmm@tms.com",
+      "password": "$2a$10$HgGIr/kJOXGhZrv3KivUdeuiTjsvVnXKD2ouUN3ZYhsAKUpNEzYPC",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "lite",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGKoEBG3A3bjpTvi4R3juER",
+        "currentPeriodEnd": "2027-09-16T15:31:42.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGsLtEa2KhOk6i",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T15:17:56.506Z",
+      "lastReconcileAt": "2026-09-21T13:00:04.916Z"
+    },
+    {
+      "id": "ee389837-23e3-4549-83f2-dcd5bbf50508",
+      "name": "nnlslk",
+      "email": "l@m.com",
+      "password": "$2a$10$BRMkepXGZGkfNBeY5IfRvOVEQqJ3eN7r/tACTgqStMbmEwWX9KLHS",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGLZKBG3A3bjpTvP23AveCO",
+        "currentPeriodEnd": "2027-09-16T16:20:22.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGsvILto7Xrcos",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T15:54:02.298Z",
+      "lastReconcileAt": "2026-09-21T13:00:05.331Z"
+    },
+    {
+      "id": "b194f6d3-a164-4273-8b59-d330c130a652",
+      "name": "haji",
+      "email": "haji@gmail.com",
+      "password": "$2a$10$2D4Ebz.pU5KLmBffJGTxde5lLU3eq1wPYu9NK0ovYj2.YBbrLlS9m",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGLhIBG3A3bjpTvXhKaL1pr",
+        "currentPeriodEnd": "2026-10-16T16:28:36.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VGtSxgvVoS4Hqr",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T16:26:54.688Z",
+      "lastReconcileAt": "2026-09-21T13:00:05.865Z"
+    },
+    {
+      "id": "5903927f-f77a-4f48-9929-9eaec2ea0f8d",
+      "name": "tahir",
+      "email": "tahir@tms.com",
+      "password": "$2a$10$p1k5uMf9nTAPdjL.TQ0ZxOWWH4T3Ounl5hecIH2hcWna/QjEsFE3C",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGYLsBG3A3bjpTvcQ7wDYvM",
+        "currentPeriodEnd": "2026-10-17T05:59:20.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VH6XTwfdbir8hN",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-17T05:57:56.153Z",
+      "lastReconcileAt": "2026-09-21T13:00:06.539Z"
+    },
+    {
+      "id": "0da7bca8-e493-42ef-80a5-5d94fd9a496f",
+      "name": "khalid",
+      "email": "khalid@tms.com",
+      "password": "$2a$10$pBO6stl4QStuunEnMCngS.fnpTlE96ODSp9/4/Hh3E9hMWxFfhwqG",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGYUuBG3A3bjpTvAbE1cIUH",
+        "currentPeriodEnd": "2026-10-17T06:08:40.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VH6a0xeZz7dclF",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-17T06:01:15.104Z",
+      "lastReconcileAt": "2026-09-21T13:00:06.983Z"
+    },
+    {
+      "id": "976ee785-073f-49b8-9428-fb8eca28189b",
+      "name": "klkl",
+      "email": "klkl@tms.com",
+      "password": "$2a$10$qmazDDg6/XENtd6JjG4BxufbVCTRSqqy3VuQAKrXir6CFTIwudnNC",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "lite",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGYw7BG3A3bjpTvYrqkWbjb",
+        "currentPeriodEnd": "2027-09-17T06:36:47.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VH78G6xxmMlDtx",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-17T06:35:12.141Z",
+      "lastReconcileAt": "2026-09-21T13:00:07.472Z"
+    },
+    {
+      "id": "4f5f6b0c-5a19-40eb-9e28-90305be99f74",
+      "name": "pp",
+      "email": "pp@tms.com",
+      "password": "$2a$10$aLB1lTSl4rKsxnUzM4iMSeNkxLfGVjGp.BInWjPWf7t1boUcRY0Xy",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGZIjBG3A3bjpTvTAwFFmPP",
+        "currentPeriodEnd": "2026-10-17T07:00:09.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VH7WSrNjAY10Sw",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-17T06:58:18.281Z",
+      "lastReconcileAt": "2026-09-21T13:00:07.863Z"
+    },
+    {
+      "id": "c6e8ac80-94a4-4ce1-9214-428c6036d2ff",
+      "name": "lm",
+      "email": "lmm@lmm.com",
+      "password": "$2a$10$n8H5l0pFR953HYKhVpBxUe.mJep0VSsHzsm6Y7kHGveQXWRNHB8m.",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "lite",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UGzliBG3A3bjpTvvNyt3uNN",
+        "currentPeriodEnd": "2027-09-18T11:15:50.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VHYra5QURENHPh",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-18T11:13:33.348Z",
+      "lastReconcileAt": "2026-09-21T13:00:08.263Z"
+    },
+    {
+      "id": "77700e70-d318-415e-aec1-1bd9b0d4e0f3",
+      "name": "sajeel",
+      "email": "sajeel@gmail.com",
+      "password": "$2a$10$ogTwP0rLlpWh13JL5g1a2e/ozc3M1wUHH88hyxGVZrq/XeL9sx8E2",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI3KwBG3A3bjpTvC2QxEBR3",
+        "currentPeriodEnd": "2026-10-21T09:16:34.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIecajvKW9JbOb",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T09:14:23.335Z",
+      "lastReconcileAt": "2026-09-21T13:00:08.685Z"
+    },
+    {
+      "id": "5e23f03e-367f-48a1-92ad-64eb1ec4d568",
+      "name": "mlml",
+      "email": "mlml@tms.com",
+      "password": "$2a$10$RrnT1UavQWMANoJWuOq/G.KlYyBQdnCYOLcMvP0W2L2FoHrm5fR3u",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI3O1BG3A3bjpTvHIFzLP4Z",
+        "currentPeriodEnd": "2026-10-21T09:19:45.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIegPaCCMqDJy4",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T09:18:27.782Z",
+      "lastReconcileAt": "2026-09-21T13:00:09.093Z"
+    },
+    {
+      "id": "47bec729-4446-4c4b-9dde-70a6b72bf3fb",
+      "name": "manager1",
+      "email": "manager@tms.com",
+      "password": "$2a$10$GMKynDWlAbfb5xT/jdLmrO.a0LZCk.BGILb9zv3tmn9c46agsHr3e",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI3VUBG3A3bjpTvXLig2JGg",
+        "currentPeriodEnd": "2026-10-21T09:27:28.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIenpn2KCEFtzg",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T09:25:36.454Z",
+      "lastReconcileAt": "2026-09-21T13:00:09.748Z"
+    },
+    {
+      "id": "050da924-7cb9-485d-b275-6dd93e65be7f",
+      "name": "employee",
+      "email": "employee@gmail.com",
+      "password": "$2a$10$jOxDROhvXkW.Mg4tH/tgduYelqLVokewdJe7xkwhIdOckhShkGEUK",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI42KBG3A3bjpTvZi2AF1vI",
+        "currentPeriodEnd": "2026-10-21T10:01:24.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIexEeRl4oU44B",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T09:35:58.555Z",
+      "lastReconcileAt": "2026-09-21T13:00:10.581Z"
+    },
+    {
+      "id": "03d98159-7f7a-4932-b1e7-97995c015593",
+      "name": "emp",
+      "email": "emp@tms.com",
+      "password": "$2a$10$Wuhg7J8yTd2ZIQuQNHb/cu4FfZxNWC94jPSTtxUoXNprrVk93NB1W",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "none",
+        "status": "inactive",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIfPjDCaaUo9dv",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T10:04:11.639Z",
+      "lastReconcileAt": "2026-09-21T13:00:11.003Z"
+    },
+    {
+      "id": "cb05c81f-466b-4a1e-a109-0351025fc3ec",
+      "name": "kala",
+      "email": "kala@tms.com",
+      "password": "$2a$10$mUIUZ7LnwBPjya087fug2ORA6RKkvcrNAkha3BRMPzO9SHobwdCFa",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI6AOBG3A3bjpTvHfJhxQpA",
+        "currentPeriodEnd": "2026-10-21T12:17:52.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIhRsjLNpAKqHx",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T12:09:48.433Z",
+      "lastReconcileAt": "2026-09-21T13:00:11.516Z"
+    },
+    {
+      "id": "b5e6b9ba-dc69-4059-94eb-272d14a01288",
+      "name": "mk",
+      "email": "mkmk@tms.com",
+      "password": "$2a$10$//8QQ8vwpbcJijyxRq2gROqSSw.D8YSpYyirxmvOMAMOrU9pHXsh2",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "none",
+        "status": "inactive",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIhjNB9XaXY6A6",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T12:27:35.448Z",
+      "lastReconcileAt": "2026-09-21T13:00:12.510Z"
+    },
+    {
+      "id": "6a84c733-7956-4320-9617-32301ffc9527",
+      "name": "mkk",
+      "email": "mkk@tms.com",
+      "password": "$2a$10$rdQd1ZS4NxB8vDx0c7LGUePl1.jwaes8Drdrri3M3cTSppK2bDS0a",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "none",
+        "status": "inactive",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIi3t5jdh64BXe",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T12:47:51.998Z",
+      "lastReconcileAt": "2026-09-21T13:00:12.966Z"
+    },
+    {
+      "id": "1dd63e20-56a7-4614-8acf-cc7ecb21da74",
+      "name": "po",
+      "email": "po@gmail.com",
+      "password": "$2a$10$nU1fpjZ6HVOdGWL7mTF7W.JwJpk7vhdpTGcltC3if4/pBJCcGonTi",
+      "role": "manager",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "none",
+        "status": "inactive",
+        "stripeSubscriptionId": null,
+        "currentPeriodEnd": null,
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIi8qATAH1iDmd",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T12:53:08.541Z",
+      "lastReconcileAt": "2026-09-21T13:00:13.808Z"
+    },
+    {
+      "id": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "name": "goku",
+      "email": "goku@tms.com",
+      "password": "$2a$10$.Cb24a9BETMtGdOXqEKcCuEymyB27Q/M2bQ/IvbGvzmrqe/5QV6my",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI6uXBG3A3bjpTv0NufFgKm",
+        "currentPeriodEnd": "2026-10-21T13:05:33.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIiDWrIyS1UQoh",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T12:57:17.123Z",
+      "lastReconcileAt": "2026-09-21T13:00:14.232Z"
+    },
+    {
+      "id": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "name": "GOHAN",
+      "email": "gohan@gmail.com",
+      "password": "$2a$10$GcchTZQ15AK6wzeeLVcyOOoja.SxqMdQJowmX7G53.D.KrcPKDqP.",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI6yaBG3A3bjpTv7dAMBFTj",
+        "currentPeriodEnd": "2026-10-21T13:09:44.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIiOiGu2Dq892s",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T13:08:46.138Z"
+    },
+    {
+      "id": "30923680-4e80-4f0f-8256-5637fea52282",
+      "name": "goten",
+      "email": "goten@tms.com",
+      "password": "$2a$10$d9bMVSG/e8xMh8Iji9l5WOcRWeS/mkF8NN9TDpX/VzqqDZv0elGze",
+      "role": "employee",
+      "status": "active",
+      "signupPaid": true,
+      "plan": "none",
+      "subscription": {
+        "plan": "pro",
+        "status": "active",
+        "stripeSubscriptionId": "sub_1UI7DBBG3A3bjpTvQ9OMKw87",
+        "currentPeriodEnd": "2026-10-21T13:24:49.000Z",
+        "cancelAtPeriodEnd": false
+      },
+      "stripeCustomerId": "cus_VIiXPMabaaGs9r",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-21T13:17:28.936Z",
+      "lastReconcileAt": "2026-09-21T13:18:04.027Z"
+=======
+      "id": "961e2ce3-7a23-44d2-ae8a-36a16d264edd",
+      "name": "maroosh",
+      "email": "maroosh@gmail.com",
+      "password": "$2a$10$ZQXUVDQYAD.Xgg4cDWiOg..vKMcx1W4cw.t3e.cHEEmRJCbVBBJ6.",
+      "role": "employee",
+      "status": "deactivated",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-14T14:35:56.684Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t-001",
+      "title": "Set up project repository",
+      "description": "Initialize Git repo, add README, configure .gitignore and branch protection.",
+      "assignedTo": "u-mgr-001",
+      "assignedToName": "manager bob",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "completed",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-09-08T09:30:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-09T16:45:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-09T16:45:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-002",
+      "title": "Design database schema",
+      "description": "Draft ER diagram for users, tasks, and audit logs.",
+      "assignedTo": "u-emp-001",
+      "assignedToName": "Alice Johnson",
+      "assignedBy": "u-mgr-001",
+      "assignedByName": "Manager One",
+      "status": "completed",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-09-08T11:15:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-09T10:00:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-09T10:00:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-003",
+      "title": "Write API documentation",
+      "description": "Document all REST endpoints using OpenAPI spec.",
+      "assignedTo": "u-mgr-001",
+      "assignedToName": "manager bob",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "in-progress",
+      "dueDate": "2026-09-20",
+      "createdAt": "2026-09-09T10:00:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-10T09:20:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-10T09:20:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-004",
+      "title": "Fix login redirect bug",
+      "description": "Admin users redirected to /dashboard instead of /admin.",
+      "assignedTo": "u-emp-002",
+      "assignedToName": "Bob Smith",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "pending",
+      "dueDate": "2026-09-18",
+      "createdAt": "2026-09-09T15:20:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-09T15:20:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-09T15:20:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-005",
+      "title": "Update dependencies",
+      "description": "Bump React, MUI, and Redux Toolkit. Run regression.",
+      "assignedTo": "u-emp-002",
+      "assignedToName": "Bob Smith",
+      "assignedBy": "u-mgr-001",
+      "assignedByName": "Manager One",
+      "status": "in-progress",
+      "dueDate": "2026-09-19",
+      "createdAt": "2026-09-09T09:00:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-11T08:00:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-11T08:00:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-008",
+      "title": "Refactor task table component",
+      "description": "Extract status dropdown and add memoization.",
+      "assignedTo": "u-emp-004",
+      "assignedToName": "David Lee",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "in-progress",
+      "dueDate": "2026-09-21",
+      "createdAt": "2026-09-10T08:45:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-12T11:20:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-12T11:20:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-009",
+      "title": "Prepare sprint demo",
+      "description": "Slide deck and 5-min walkthrough for Friday demo.",
+      "assignedTo": "u-emp-004",
+      "assignedToName": "David Lee",
+      "assignedBy": "u-mgr-001",
+      "assignedByName": "Manager One",
+      "status": "pending",
+      "dueDate": "2026-09-20",
+      "createdAt": "2026-09-11T13:45:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-11T13:45:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-11T13:45:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-010",
+      "title": "Update onboarding docs",
+      "description": "Add setup instructions for new devs.",
+      "assignedTo": "u-emp-004",
+      "assignedToName": "David Lee",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "in-progress",
+      "dueDate": "2026-09-23",
+      "createdAt": "2026-09-11T16:20:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-14T12:12:46.417Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-14T12:12:46.417Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-011",
+      "title": "Investigate slow dashboard query",
+      "description": "Profile aggregation query, add indexes.",
+      "assignedTo": "u-emp-002",
+      "assignedToName": "Bob Smith",
+      "assignedBy": "u-mgr-002",
+      "assignedByName": "Manager Two",
+      "status": "in-progress",
+<<<<<<< HEAD
+      "dueDate": "2026-09-22",
+      "createdAt": "2026-09-12T08:15:00.000Z",
+      "updatedAt": "2026-09-14T12:42:00.879Z",
+      "requiresReassignment": false,
+      "comments": []
+=======
+      "dueDate": "2026-09-22T00:00:00.000Z",
+      "createdAt": "2026-09-12T08:15:00.000Z",
+      "updatedAt": "2026-09-14T12:42:00.879Z",
+      "requiresReassignment": false
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-012",
+      "title": "Fix typo on login page",
+      "description": "'Recieve' → 'Receive'.",
+      "assignedTo": "u-emp-005",
+      "assignedToName": "Eve Martinez",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "completed",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-09-12T09:00:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-12T09:45:00.000Z",
+      "comments": []
+=======
+      "updatedAt": "2026-09-12T09:45:00.000Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    },
+    {
+      "id": "t-013",
+      "title": "Deploy staging build",
+      "description": "Trigger CI and verify staging health.",
+      "assignedTo": "u-emp-008",
+      "assignedToName": "Henry Park",
+      "assignedBy": "u-mgr-001",
+      "assignedByName": "Manager One",
+      "status": "pending",
+      "dueDate": "2026-09-20",
+      "createdAt": "2026-09-13T13:00:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-13T13:00:00.000Z",
+      "comments": []
+    },
+    {
+      "id": "t-014",
+      "name": "Add dark mode toggle",
+=======
+      "updatedAt": "2026-09-13T13:00:00.000Z"
+    },
+    {
+      "id": "t-014",
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+      "title": "Add dark mode toggle",
+      "description": "Add toggle in profile settings.",
+      "assignedTo": "u-emp-008",
+      "assignedToName": "Henry Park",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Admin User",
+      "status": "in-progress",
+      "dueDate": "2026-09-21",
+      "createdAt": "2026-09-14T09:00:00.000Z",
+<<<<<<< HEAD
+      "updatedAt": "2026-09-14T09:00:00.000Z",
+      "comments": []
+    },
+    {
+      "id": "f7ba73c3-4524-4b64-9236-9ba28372914b",
+      "title": "kdjndkn",
+      "description": "jndndlkmdm",
+      "assignedTo": "u-emp-005",
+      "assignedToName": "Eve Martinez",
+      "assignedBy": "u-mgr-001",
+      "assignedByName": "manager bob",
+      "status": "in-progress",
+      "dueDate": "2028-09-22T00:00:00.000Z",
+      "comments": [
+        {
+          "id": "e203e931-ad45-4382-b604-db8154370c94",
+          "by": "u-emp-001",
+          "byName": "Alice Johnson",
+          "role": "employee",
+          "text": "dsklsdfm;ls sdlm;lkmd;ldflmddsmdfkjndskdlndslkjndskjnsdljkdnfkjdsnkdlsjndslkjndskjdsnkfdjnfdskjndfndfskjdsnkjdsnkjfnfkdjnkdfjnjdnjfnjdnjfnjazsxdcfvgbhnjmksxdcfvgbhnjmkdfvgbhnjkcvbdsnfjsndfkds isfoifs uhfouiefiofiuffdnjkdfsnfkdjsnskjnlkdsndksljnkldsjfnlkdsjnlksdjnldskfjndslkjndslkjldksjnldskjnfslkdjndlfnfdlknjdlkjndsfkndsalndslknjdsfkjndsfklnjfdslkndsflkjndslkjndsfkdsfnlkndfskljdnflkjnfdslkjndfskjnfdskjndsfkjnklnfdslkjfdsndlksjndfkjndfskjnfdskjfsdnkfkdsjndjksndsfkkdjfskjsdffdslnjdsndfkjndskjndsfk",
+          "statusAtTime": "in-progress",
+          "createdAt": "2026-09-16T11:07:03.125Z"
+        }
+      ],
+      "createdAt": "2026-09-16T11:06:04.699Z",
+      "updatedAt": "2026-09-17T07:19:47.911Z",
+      "requiresReassignment": false
+    },
+    {
+      "id": "e41f3a21-865f-4965-b37e-daa3261246ee",
+      "title": "slkm",
+      "description": "LKMLMLM",
+      "assignedTo": "e47ddf66-e025-43fc-a2fc-c15e271a3954",
+      "assignedToName": "shaka",
+      "assignedBy": "u-mgr-001",
+      "assignedByName": "manager bob",
+      "status": "pending",
+      "dueDate": "2026-09-28T00:00:00.000Z",
+      "comments": [],
+      "createdAt": "2026-09-17T07:24:15.268Z",
+      "updatedAt": "2026-09-17T07:24:15.268Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay_1789483292347_eqmj21",
+      "userId": "aa219c2f-c8ef-4acb-ae3d-a50e179dc3d7",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UFxY4BG3A3bjpTv1cOj1wng",
+      "stripeSessionId": "cs_test_a1kTN0YGkcgfrtDtEpZquQVsGLt6zVmj7Jj4ZKFPtnxB9Kh9RjuOODuOu3",
+      "createdAt": "2026-09-15T14:41:32.347Z"
+    },
+    {
+      "id": "pay_1789483514910_hgtaq4",
+      "userId": "ec895b4a-4673-4b82-8a03-647e931d1eb5",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UFxbfBG3A3bjpTv0WFQPFxc",
+      "stripeSessionId": "cs_test_a1vx0xUh6bS5iHyjfiN03Rwov0cBY4oQscADhsI6SebH0F2M8imjpQfcNJ",
+      "createdAt": "2026-09-15T14:45:14.910Z"
+    },
+    {
+      "id": "pay_1789483641326_6bh6r5",
+      "userId": "434f7651-e7af-4ef8-a586-525e3d16b56e",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UFxdhBG3A3bjpTv1nzXmKZ5",
+      "stripeSessionId": "cs_test_a17RhyurUedtMVsDtos0ufAmlS96R1jDfMo1WvXcB3Z8PFJrjvpXF6DfxH",
+      "createdAt": "2026-09-15T14:47:21.326Z"
+    },
+    {
+      "id": "pay_1789491081182_ydonzd",
+      "userId": "8b796bd5-2ecf-4309-938f-5b59fb50bef7",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UFzZfBG3A3bjpTv0o6SYQKE",
+      "stripeSessionId": "cs_test_a1zzWYAXDq6UdwiXwkH1Qe1UVkfL7XnNLsD6gmPulkwudtsu3gZNUSGhOg",
+      "createdAt": "2026-09-15T16:51:21.182Z"
+    },
+    {
+      "id": "pay_1789493824561_gsyv7n",
+      "userId": "6da3906e-3a35-44d3-a379-e143e67ea018",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UG0HvBG3A3bjpTv01icGIsO",
+      "stripeSessionId": "cs_test_a1NKyqVEmXpN3svCjd8P4onj0FKjlb9It3jE39njh03ZDo9lopljfLScf0",
+      "createdAt": "2026-09-15T17:37:04.561Z"
+    },
+    {
+      "id": "pay_1789493923219_fok6ea",
+      "userId": "6da3906e-3a35-44d3-a379-e143e67ea018",
+      "type": "subscription",
+      "amount": 4000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "checkout_cs_test_a1S89cil0eXDEDqjvkbzWC0bhZytmz7QofVcsFL7k0ilz2ZPM3ylcbhTCV",
+      "stripeSessionId": "cs_test_a1S89cil0eXDEDqjvkbzWC0bhZytmz7QofVcsFL7k0ilz2ZPM3ylcbhTCV",
+      "createdAt": "2026-09-15T17:38:43.219Z"
+    },
+    {
+      "id": "pay_1789571460919_7uvqut",
+      "userId": "8996d598-fbc9-42c3-a442-835554bbeaf3",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGKU6BG3A3bjpTv0ymZ38ae",
+      "stripeSessionId": "cs_test_a1YE5YCPZcyAIKuMHEo8Ovcuwsd8a2W17k7f2l5jaPwAqwGvDlLip7p0ZD",
+      "createdAt": "2026-09-16T15:11:00.919Z"
+    },
+    {
+      "id": "pay_1789571694201_746lma",
+      "userId": "e47ddf66-e025-43fc-a2fc-c15e271a3954",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGKXtBG3A3bjpTv0lECG95e",
+      "stripeSessionId": "cs_test_a1xhqFnx2ZlTl4us3QIJmnZY9j5J0epPR9BX61ILjG8UvqRXsuqKYPSkdt",
+      "createdAt": "2026-09-16T15:14:54.202Z"
+    },
+    {
+      "id": "pay_1789571915938_agmb6e",
+      "userId": "d3a2a616-b142-443d-ac44-777790049ceb",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGKbQBG3A3bjpTv0QOupFVO",
+      "stripeSessionId": "cs_test_a14tMGneROUifWQ2mRdKVKBy2HzReFgR5TyrHJXJDHGpVvxJy1I0KhGTVk",
+      "createdAt": "2026-09-16T15:18:35.938Z"
+    },
+    {
+      "id": "pay_1789575585262_uclbld",
+      "userId": "ee389837-23e3-4549-83f2-dcd5bbf50508",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGLYbBG3A3bjpTv0TGuXjF7",
+      "stripeSessionId": "cs_test_a1yS0pGdOwj1lU0BLD84itx8Ng3ySEkPowJd08poiCFgcXTAspVgppqnrQ",
+      "createdAt": "2026-09-16T16:19:45.262Z"
+    },
+    {
+      "id": "pay_1789576051888_7wyuyg",
+      "userId": "b194f6d3-a164-4273-8b59-d330c130a652",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGLg8BG3A3bjpTv1HWQJay9",
+      "stripeSessionId": "cs_test_a1rdJUTZaprjg5YvZR5ul7nfb6SaO8m3IpbcdzKWndrftRQvY1SXBFmMY8",
+      "createdAt": "2026-09-16T16:27:31.889Z"
+    },
+    {
+      "id": "pay_1789624723490_ntbjyt",
+      "userId": "5903927f-f77a-4f48-9929-9eaec2ea0f8d",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGYLABG3A3bjpTv0dF53eQG",
+      "stripeSessionId": "cs_test_a1O2HTUHGvEfb3jm4Uh6oeQRlR22mnOyo4XOzAiEA8C31kDFhybDuTm53B",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-17T05:58:43.490Z"
+    },
+    {
+      "id": "pay_1789624767909_kk9qgu",
+      "userId": "5903927f-f77a-4f48-9929-9eaec2ea0f8d",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGYLsBG3A3bjpTvcQ7wDYvM",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGYLsBG3A3bjpTvcQ7wDYvM",
+      "plan": "pro",
+      "createdAt": "2026-09-17T05:59:27.909Z"
+    },
+    {
+      "id": "pay_1789624910781_y0chtk",
+      "userId": "0da7bca8-e493-42ef-80a5-5d94fd9a496f",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGYOCBG3A3bjpTv1R1rcbHg",
+      "stripeSessionId": "cs_test_a1i1FglVwmmfu7EjXGlYUvDBHLFJmj3qjzeJFgwIHsC9cT0X0aDyxVhMg1",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-17T06:01:50.781Z"
+    },
+    {
+      "id": "pay_1789625351150_275pas",
+      "userId": "0da7bca8-e493-42ef-80a5-5d94fd9a496f",
+      "type": "subscription",
+      "amount": 2500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGYUuBG3A3bjpTvAbE1cIUH",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGYUuBG3A3bjpTvAbE1cIUH",
+      "plan": "pro",
+      "createdAt": "2026-09-17T06:09:11.150Z"
+    },
+    {
+      "id": "pay_1789626079958_dvxla8",
+      "userId": "aa219c2f-c8ef-4acb-ae3d-a50e179dc3d7",
+      "type": "subscription",
+      "amount": 3000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UFxZFBG3A3bjpTvuTub4axy",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UFxZFBG3A3bjpTvuTub4axy",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:21:19.958Z"
+    },
+    {
+      "id": "pay_1789626079968_i8fod0",
+      "userId": "ec895b4a-4673-4b82-8a03-647e931d1eb5",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UFxcABG3A3bjpTvvr4IHHvd",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UFxcABG3A3bjpTvvr4IHHvd",
+      "plan": "pro",
+      "createdAt": "2026-09-17T06:21:19.968Z"
+    },
+    {
+      "id": "pay_1789626080474_o1m35d",
+      "userId": "434f7651-e7af-4ef8-a586-525e3d16b56e",
+      "type": "subscription",
+      "amount": 4000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UFxefBG3A3bjpTv1PZt3Gix",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UFxefBG3A3bjpTv1PZt3Gix",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:21:20.474Z"
+    },
+    {
+      "id": "pay_1789626080555_suwodp",
+      "userId": "8b796bd5-2ecf-4309-938f-5b59fb50bef7",
+      "type": "subscription",
+      "amount": 2500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UFzazBG3A3bjpTvbXxkj5qW",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UFzazBG3A3bjpTvbXxkj5qW",
+      "plan": "pro",
+      "createdAt": "2026-09-17T06:21:20.555Z"
+    },
+    {
+      "id": "pay_1789626080899_dkh70z",
+      "userId": "e47ddf66-e025-43fc-a2fc-c15e271a3954",
+      "type": "subscription",
+      "amount": 3000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGKYmBG3A3bjpTvTiW33nNF",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGKYmBG3A3bjpTvTiW33nNF",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:21:20.899Z"
+    },
+    {
+      "id": "pay_1789626080901_ehw3me",
+      "userId": "6da3906e-3a35-44d3-a379-e143e67ea018",
+      "type": "subscription",
+      "amount": 4000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UG0JUBG3A3bjpTvdiEX8toA",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UG0JUBG3A3bjpTvdiEX8toA",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:21:20.901Z"
+    },
+    {
+      "id": "pay_1789626080904_nx99uy",
+      "userId": "d3a2a616-b142-443d-ac44-777790049ceb",
+      "type": "subscription",
+      "amount": 4000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGKoEBG3A3bjpTvi4R3juER",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGKoEBG3A3bjpTvi4R3juER",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:21:20.904Z"
+    },
+    {
+      "id": "pay_1789626080917_whtzt7",
+      "userId": "8996d598-fbc9-42c3-a442-835554bbeaf3",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGKV1BG3A3bjpTvK6PmNymB",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGKV1BG3A3bjpTvK6PmNymB",
+      "plan": "pro",
+      "createdAt": "2026-09-17T06:21:20.917Z"
+    },
+    {
+      "id": "pay_1789626080920_9f3foe",
+      "userId": "ee389837-23e3-4549-83f2-dcd5bbf50508",
+      "type": "subscription",
+      "amount": 3000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGLZKBG3A3bjpTvP23AveCO",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGLZKBG3A3bjpTvP23AveCO",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:21:20.920Z"
+    },
+    {
+      "id": "pay_1789626081267_4wrdhb",
+      "userId": "b194f6d3-a164-4273-8b59-d330c130a652",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGLhIBG3A3bjpTvXhKaL1pr",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGLhIBG3A3bjpTvXhKaL1pr",
+      "plan": "pro",
+      "createdAt": "2026-09-17T06:21:21.267Z"
+    },
+    {
+      "id": "pay_1789626947375_g5rce8",
+      "userId": "976ee785-073f-49b8-9428-fb8eca28189b",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGYv1BG3A3bjpTv1UwLVo3i",
+      "stripeSessionId": "cs_test_a1JDTyGmqLHb6MRe0s7lJJDGdJPTPiIjbWyKNH3d4MxP81XfMsfiKcIZDa",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-17T06:35:47.375Z"
+    },
+    {
+      "id": "pay_1789627490503_xd084h",
+      "userId": "976ee785-073f-49b8-9428-fb8eca28189b",
+      "type": "subscription",
+      "amount": 4000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGYw7BG3A3bjpTvYrqkWbjb",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGYw7BG3A3bjpTvYrqkWbjb",
+      "plan": "lite",
+      "createdAt": "2026-09-17T06:44:50.503Z"
+    },
+    {
+      "id": "pay_1789628373961_e0d739",
+      "userId": "4f5f6b0c-5a19-40eb-9e28-90305be99f74",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGZHLBG3A3bjpTv1dnDTydh",
+      "stripeSessionId": "cs_test_a1Rp1ToZT2hFX9ZVPPb9HVwNQCMdViMzwou6WFE8lR60IPlUWg8xE9z6go",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-17T06:59:33.961Z"
+    },
+    {
+      "id": "pay_1789628587556_2a5783",
+      "userId": "4f5f6b0c-5a19-40eb-9e28-90305be99f74",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGZIjBG3A3bjpTvTAwFFmPP",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGZIjBG3A3bjpTvTAwFFmPP",
+      "plan": "pro",
+      "createdAt": "2026-09-17T07:03:07.556Z"
+    },
+    {
+      "id": "pay_1789730075158_udco04",
+      "userId": "c6e8ac80-94a4-4ce1-9214-428c6036d2ff",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UGzkOBG3A3bjpTv1KaYr860",
+      "stripeSessionId": "cs_test_a1mZH9RpjuQl8ErYUyQOYBdX08Yj6LJgyVuVs6YMG3jwDv2RuDQQ3o700L",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-18T11:14:35.159Z"
+    },
+    {
+      "id": "pay_1789730159226_gqqmpw",
+      "userId": "c6e8ac80-94a4-4ce1-9214-428c6036d2ff",
+      "type": "subscription",
+      "amount": 4000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UGzliBG3A3bjpTvvNyt3uNN",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UGzliBG3A3bjpTvvNyt3uNN",
+      "plan": "lite",
+      "createdAt": "2026-09-18T11:15:59.226Z"
+    },
+    {
+      "id": "pay_1789982164717_xf14jo",
+      "userId": "77700e70-d318-415e-aec1-1bd9b0d4e0f3",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI3KHBG3A3bjpTv1Q6c70DN",
+      "stripeSessionId": "cs_test_a1BeI8JGR9EtZPF5wFgvuhOVJEdUlQJSB3IxgJ5iiB420qSv8H9n4Oyu2A",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T09:16:04.717Z"
+    },
+    {
+      "id": "pay_1789982204567_t0mk6p",
+      "userId": "77700e70-d318-415e-aec1-1bd9b0d4e0f3",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI3KwBG3A3bjpTvC2QxEBR3",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI3KwBG3A3bjpTvC2QxEBR3",
+      "plan": "pro",
+      "createdAt": "2026-09-21T09:16:44.567Z"
+    },
+    {
+      "id": "pay_1789982362526_eacxk2",
+      "userId": "5e23f03e-367f-48a1-92ad-64eb1ec4d568",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI3NUBG3A3bjpTv1lX9EHzD",
+      "stripeSessionId": "cs_test_a16DgAKR10ecYNsMgvD6cExcO2PlA8r3YfzTM83pLdESYfIYPsJyDy3Yfe",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T09:19:22.526Z"
+    },
+    {
+      "id": "pay_1789982461141_o6b0qv",
+      "userId": "5e23f03e-367f-48a1-92ad-64eb1ec4d568",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI3O1BG3A3bjpTvHIFzLP4Z",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI3O1BG3A3bjpTvHIFzLP4Z",
+      "plan": "pro",
+      "createdAt": "2026-09-21T09:21:01.141Z"
+    },
+    {
+      "id": "pay_1789982781899_p8cxpp",
+      "userId": "47bec729-4446-4c4b-9dde-70a6b72bf3fb",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI3UGBG3A3bjpTv0lyjtUIs",
+      "stripeSessionId": "cs_test_a1Wm7wJ33Gl0weUEBhOYzqUE9p5Uhw7aenFJ6qqqzmwQKWAi0ivZSdw5Hm",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T09:26:21.899Z"
+    },
+    {
+      "id": "pay_1789982930554_2tt87o",
+      "userId": "47bec729-4446-4c4b-9dde-70a6b72bf3fb",
+      "type": "subscription",
+      "amount": 2500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI3VUBG3A3bjpTvXLig2JGg",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI3VUBG3A3bjpTvXLig2JGg",
+      "plan": "pro",
+      "createdAt": "2026-09-21T09:28:50.554Z"
+    },
+    {
+      "id": "pay_1789983976625_lf6j63",
+      "userId": "050da924-7cb9-485d-b275-6dd93e65be7f",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI3ekBG3A3bjpTv1YJlMACi",
+      "stripeSessionId": "cs_test_a19YGhVQZOUbddGtFD6REzIAjMeFUDeLjKWRUrk9CCRR2GRPfyREShV0QP",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T09:46:16.625Z"
+    },
+    {
+      "id": "pay_1789984897061_6tfbai",
+      "userId": "050da924-7cb9-485d-b275-6dd93e65be7f",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI42KBG3A3bjpTvZi2AF1vI",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI42KBG3A3bjpTvZi2AF1vI",
+      "plan": "pro",
+      "createdAt": "2026-09-21T10:01:37.061Z"
+    },
+    {
+      "id": "pay_1789985099443_grq8zm",
+      "userId": "03d98159-7f7a-4932-b1e7-97995c015593",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI45cBG3A3bjpTv1ffSawLf",
+      "stripeSessionId": "cs_test_a12uOdIdb8QTZly49m3pwsD83USnnLHtmt8kDP5QwSgKhnNUZKmSfNVxEC",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T10:04:59.443Z"
+    },
+    {
+      "id": "pay_1789992631302_okpn18",
+      "userId": "cb05c81f-466b-4a1e-a109-0351025fc3ec",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI636BG3A3bjpTv0hIRzIBT",
+      "stripeSessionId": "cs_test_a13BBDHPSpYimWUMxyyXowGJ3RuWlflU6zMhkPlN7kHF7vPyS0CDROzSUD",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T12:10:31.302Z"
+    },
+    {
+      "id": "pay_1789993084672_cn9afm",
+      "userId": "cb05c81f-466b-4a1e-a109-0351025fc3ec",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI6AOBG3A3bjpTvHfJhxQpA",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI6AOBG3A3bjpTvHfJhxQpA",
+      "plan": "pro",
+      "createdAt": "2026-09-21T12:18:04.672Z"
+    },
+    {
+      "id": "pay_1789994908047_1bjq8l",
+      "userId": "6a84c733-7956-4320-9617-32301ffc9527",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI6dwBG3A3bjpTv1dFkCum0",
+      "stripeSessionId": "cs_test_a1sA7ei4mxGUxqLnefan4CZ6wFZuQN6Cicj8MLFmePPoxpC1s5nnYqMYZH",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T12:48:28.047Z"
+    },
+    {
+      "id": "pay_1789995477893_anwpmw",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI6mvBG3A3bjpTv1p61VqZf",
+      "stripeSessionId": "cs_test_a18NP01lnkXhIejtV46UqermDufD3Vs1Bedfn5hCipEYDpCZpeKWfp3Olk",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T12:57:57.893Z"
+    },
+    {
+      "id": "pay_1789995612507_hw3cvk",
+      "userId": "b5e6b9ba-dc69-4059-94eb-272d14a01288",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI6K4BG3A3bjpTv1f3gmQSf",
+      "stripeSessionId": "cs_test_a1fqmIK2gw3dDL3e0aWOyDvVBryIjH79QAwbr3rY8xJEcAsxErcAiwy381",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T13:00:12.507Z"
+    },
+    {
+      "id": "pay_1789995613807_enxduo",
+      "userId": "1dd63e20-56a7-4614-8acf-cc7ecb21da74",
+      "type": "signup",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI6iyBG3A3bjpTv1iVN5Y8A",
+      "stripeSessionId": "cs_test_a1mWVRcGB22LBjSTi9bB6jDkj6z9zy39uHy3RCCTTOwfsFqZWexf2fQdOx",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T13:00:13.807Z"
+    },
+    {
+      "id": "pay_1789995939697_8eqrzw",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI6uXBG3A3bjpTv0NufFgKm",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI6uXBG3A3bjpTv0NufFgKm",
+      "plan": "pro",
+      "createdAt": "2026-09-21T13:05:39.697Z"
+    },
+    {
+      "id": "pay_1789996152717_z0a77x",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI6y2BG3A3bjpTv1vB1TRud",
+      "stripeSessionId": "cs_test_a1CW5yuywD6qYS9syhmdpsFGylMmAqz6Ju4cUT5QZOjS68jVRSuIOfEeKs",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T13:09:12.717Z"
+    },
+    {
+      "id": "pay_1789996188987_t74egq",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI6yaBG3A3bjpTv7dAMBFTj",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI6yaBG3A3bjpTv7dAMBFTj",
+      "plan": "pro",
+      "createdAt": "2026-09-21T13:09:48.987Z"
+    },
+    {
+      "id": "pay_1789996684025_n47ldq",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "type": "signup",
+      "amount": 1500,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "pi_3UI76VBG3A3bjpTv0q67wS4n",
+      "stripeSessionId": "cs_test_a1OHYVmxsooXtpuflC1XVsLrt0Aq1eRDVnC6i9e8XqCdBHZVIRLkZfhvwJ",
+      "stripeSubscriptionId": null,
+      "plan": null,
+      "createdAt": "2026-09-21T13:18:04.025Z"
+    },
+    {
+      "id": "pay_1789997093626_p2xnm5",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "type": "subscription",
+      "amount": 2000,
+      "currency": "usd",
+      "status": "succeeded",
+      "stripeEventId": "sub_backfill_sub_1UI7DBBG3A3bjpTvQ9OMKw87",
+      "stripeSessionId": null,
+      "stripeSubscriptionId": "sub_1UI7DBBG3A3bjpTvQ9OMKw87",
+      "plan": "pro",
+      "createdAt": "2026-09-21T13:24:53.627Z"
+    }
+  ],
+  "webhookEvents": [
+    {
+      "id": "evt_1UGYIsBULbkzzmOXbzBkrQ8S",
+      "type": "checkout.session.completed",
+      "userId": null,
+      "receivedAt": "2026-09-17T05:56:24.173Z"
+    },
+    {
+      "id": "evt_1UGzYHBULbkzzmOXxfzPAE6c",
+      "type": "checkout.session.completed",
+      "userId": null,
+      "receivedAt": "2026-09-18T11:02:00.306Z"
+    },
+    {
+      "id": "evt_1UI3I6BULbkzzmOXw5X3GrRE",
+      "type": "checkout.session.completed",
+      "userId": null,
+      "receivedAt": "2026-09-21T09:13:43.617Z"
+    },
+    {
+      "id": "evt_1UI6dyBG3A3bjpTveSTVhF7O",
+      "type": "checkout.session.completed",
+      "userId": "6a84c733-7956-4320-9617-32301ffc9527",
+      "receivedAt": "2026-09-21T12:48:27.089Z"
+    },
+    {
+      "id": "evt_1UI6mxBG3A3bjpTvQaQv48NC",
+      "type": "checkout.session.completed",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "receivedAt": "2026-09-21T12:57:56.245Z"
+    },
+    {
+      "id": "evt_1UI6ucBG3A3bjpTvvNWxpr6u",
+      "type": "checkout.session.completed",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "receivedAt": "2026-09-21T13:05:38.757Z"
+    },
+    {
+      "id": "evt_1UI6ucBG3A3bjpTvcClyNXsK",
+      "type": "invoice.paid",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "receivedAt": "2026-09-21T13:05:38.968Z"
+    },
+    {
+      "id": "evt_1UI6ucBG3A3bjpTvC1hGWlM5",
+      "type": "customer.subscription.created",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "receivedAt": "2026-09-21T13:05:39.028Z"
+    },
+    {
+      "id": "evt_1UI6ucBG3A3bjpTvpqXNIlqb",
+      "type": "customer.subscription.updated",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "receivedAt": "2026-09-21T13:05:39.145Z"
+    },
+    {
+      "id": "evt_1UI6ucBG3A3bjpTvZWbN6MZx",
+      "type": "invoice.payment_succeeded",
+      "userId": "82f5acc3-a2d6-4b6c-b820-adc8f84919e2",
+      "receivedAt": "2026-09-21T13:05:39.558Z"
+    },
+    {
+      "id": "evt_1UI6y3BG3A3bjpTvgGOM7eS6",
+      "type": "checkout.session.completed",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "receivedAt": "2026-09-21T13:09:11.898Z"
+    },
+    {
+      "id": "evt_1UI6ydBG3A3bjpTvPUg5OvSM",
+      "type": "invoice.paid",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "receivedAt": "2026-09-21T13:09:48.284Z"
+    },
+    {
+      "id": "evt_1UI6ydBG3A3bjpTvDZmiZ9sf",
+      "type": "checkout.session.completed",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "receivedAt": "2026-09-21T13:09:48.324Z"
+    },
+    {
+      "id": "evt_1UI6ydBG3A3bjpTvIBOpL4y2",
+      "type": "customer.subscription.created",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "receivedAt": "2026-09-21T13:09:48.335Z"
+    },
+    {
+      "id": "evt_1UI6ydBG3A3bjpTv5wFvx0wo",
+      "type": "customer.subscription.updated",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "receivedAt": "2026-09-21T13:09:48.517Z"
+    },
+    {
+      "id": "evt_1UI6yeBG3A3bjpTvONaT6WpK",
+      "type": "invoice.payment_succeeded",
+      "userId": "517fc57a-7735-48a6-b7e0-45ebc79f55d8",
+      "receivedAt": "2026-09-21T13:09:49.654Z"
+    },
+    {
+      "id": "evt_1UI7DEBG3A3bjpTvtkLUv0H6",
+      "type": "checkout.session.completed",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "receivedAt": "2026-09-21T13:24:53.220Z"
+    },
+    {
+      "id": "evt_1UI7DEBG3A3bjpTvCqy7mndh",
+      "type": "invoice.paid",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "receivedAt": "2026-09-21T13:24:53.749Z"
+    },
+    {
+      "id": "evt_1UI7DEBG3A3bjpTvpcZSKDj0",
+      "type": "customer.subscription.created",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "receivedAt": "2026-09-21T13:24:53.762Z"
+    },
+    {
+      "id": "evt_1UI7DEBG3A3bjpTvTnpBBySD",
+      "type": "customer.subscription.updated",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "receivedAt": "2026-09-21T13:24:53.772Z"
+    },
+    {
+      "id": "evt_1UI7DEBG3A3bjpTvULrzNbu2",
+      "type": "invoice.payment_succeeded",
+      "userId": "30923680-4e80-4f0f-8256-5637fea52282",
+      "receivedAt": "2026-09-21T13:24:54.680Z"
+=======
+      "updatedAt": "2026-09-14T09:00:00.000Z"
+    },
+    {
+      "id": "1562d9f4-ae16-45c8-8986-99a2825cf7a1",
+      "title": "frontend",
+      "description": "frontend building",
+      "assignedTo": "u-mgr-001",
+      "assignedToName": "manager bob",
+      "assignedBy": "u-admin-001",
+      "assignedByName": "Talha (admin)",
+      "status": "in-progress",
+      "dueDate": "2026-09-24T00:00:00.000Z",
+      "createdAt": "2026-09-14T14:30:04.172Z",
+      "updatedAt": "2026-09-14T14:32:58.330Z"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    }
+  ],
+  "resetCodes": []
+}

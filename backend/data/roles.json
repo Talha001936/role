@@ -1,0 +1,57 @@
+{
+  "roles": {
+    "admin": [
+      "task:view:all",
+      "task:create",
+      "task:update",
+      "task:delete",
+<<<<<<< HEAD
+      "task:search:all",
+      "task:comment",
+      "user:view",
+=======
+      "user:view",
+      "user:create",
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+      "user:status:update",
+      "user:delete",
+      "dashboard:view",
+      "profile:view",
+<<<<<<< HEAD
+      "profile:update",
+      "payment:view"
+=======
+      "profile:update"
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+    ],
+    "manager": [
+      "task:view:all",
+      "task:create",
+      "task:update",
+      "task:delete",
+<<<<<<< HEAD
+      "task:status:update:own",
+      "task:search:all",
+      "task:comment",
+=======
+  "task:status:update:own",
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+      "user:view",
+      "dashboard:view",
+      "profile:view",
+      "profile:update"
+    ],
+    "employee": [
+      "task:view:own",
+      "task:status:update:own",
+<<<<<<< HEAD
+      "task:search:own",
+      "task:comment",
+=======
+>>>>>>> 6a4ee48cbd61e37af9ec683aeea461de30d17870
+      "dashboard:view",
+      "profile:view",
+      "profile:update"
+    ]
+  }
+}
