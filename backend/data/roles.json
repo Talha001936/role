@@ -1,0 +1,35 @@
+{
+  "roles": {
+    "admin": [
+      "task:view:all",
+      "task:create",
+      "task:update",
+      "task:delete",
+      "user:view",
+      "user:create",
+      "user:status:update",
+      "user:delete",
+      "dashboard:view",
+      "profile:view",
+      "profile:update"
+    ],
+    "manager": [
+      "task:view:all",
+      "task:create",
+      "task:update",
+      "task:delete",
+  "task:status:update:own",
+      "user:view",
+      "dashboard:view",
+      "profile:view",
+      "profile:update"
+    ],
+    "employee": [
+      "task:view:own",
+      "task:status:update:own",
+      "dashboard:view",
+      "profile:view",
+      "profile:update"
+    ]
+  }
+}
